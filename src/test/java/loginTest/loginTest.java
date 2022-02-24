@@ -29,7 +29,13 @@ public class loginTest extends base_test {
     public void teste2(){
 
     }
+    @Test
+    public void teste6(){
 
+    }
+    @Test
+    public void teste66(){
+    }
 
 
 }

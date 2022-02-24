@@ -17,5 +17,9 @@ public class secureArea {
     public void teste4(){
 
     }
+    @Test
+    public void yoyo(){
+
+    }
 }
 
