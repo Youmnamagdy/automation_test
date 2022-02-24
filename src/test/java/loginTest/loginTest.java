@@ -25,5 +25,9 @@ public class loginTest extends base_test {
     public void teste1(){
 
     }
+    @Test
+    public void teste2(){
+
+    }
 
 }
