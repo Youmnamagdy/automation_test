@@ -2,6 +2,7 @@ package pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.testng.annotations.Test;
 
 public class secureArea {
     private  WebDriver driver;
@@ -12,4 +13,9 @@ public class secureArea {
     public String getAlertText(){
        return  driver.findElement(StatusAlert).getText();
     }
+    @Test
+    public void teste4(){
+
+    }
 }
+
