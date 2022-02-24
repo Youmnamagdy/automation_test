@@ -17,4 +17,9 @@ public class loginTest extends base_test {
      assertTrue(secureArea.getAlertText() .contains("You logged into secure Area!"),"alert text is incorrect");
 
     }
+    @Test
+    public void testee(){
+
+    }
+
 }
